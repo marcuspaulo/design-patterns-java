@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pedido-venda" />
+        <module name="carregar-contatos-com-proxy" />
+        <module name="carregar-contatos-sem-padrao-proxy" />
+        <module name="pedido-venda-com-di" />
+        <module name="modulo-pagamento-abstract-factory" />
+        <module name="financeiro" />
+        <module name="maladireta-cliente" />
+        <module name="financeiro-sem-observer" />
+        <module name="modulo-pagamento-acoplado" />
+        <module name="maladireta-lib" />
+        <module name="maladireta" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="carregar-contatos-com-proxy" target="1.7" />
+      <module name="carregar-contatos-sem-padrao-proxy" target="1.7" />
+      <module name="financeiro" target="1.7" />
+      <module name="financeiro-sem-observer" target="1.7" />
+      <module name="maladireta" target="1.7" />
+      <module name="maladireta-cliente" target="1.7" />
+      <module name="maladireta-lib" target="1.7" />
+      <module name="modulo-pagamento-abstract-factory" target="1.7" />
+      <module name="modulo-pagamento-acoplado" target="1.7" />
+      <module name="pedido-venda" target="1.7" />
+      <module name="pedido-venda-com-di" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

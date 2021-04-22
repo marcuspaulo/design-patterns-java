@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Proxy/carregar-contatos-com-proxy/carregar-contatos-com-proxy.iml" filepath="$PROJECT_DIR$/Proxy/carregar-contatos-com-proxy/carregar-contatos-com-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/carregar-contatos-sem-padrao-proxy/carregar-contatos-sem-padrao-proxy.iml" filepath="$PROJECT_DIR$/Proxy/carregar-contatos-sem-padrao-proxy/carregar-contatos-sem-padrao-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/design-patterns-java.iml" filepath="$PROJECT_DIR$/.idea/design-patterns-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/financeiro/financeiro.iml" filepath="$PROJECT_DIR$/Observer/financeiro/financeiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/financeiro-sem-observer/financeiro-sem-observer.iml" filepath="$PROJECT_DIR$/Observer/financeiro-sem-observer/financeiro-sem-observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory Method/maladireta/maladireta.iml" filepath="$PROJECT_DIR$/Factory Method/maladireta/maladireta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory Method/maladireta-cliente/maladireta-cliente.iml" filepath="$PROJECT_DIR$/Factory Method/maladireta-cliente/maladireta-cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory Method/maladireta-lib/maladireta-lib.iml" filepath="$PROJECT_DIR$/Factory Method/maladireta-lib/maladireta-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstract Factory/modulo-pagamento-abstract-factory/modulo-pagamento-abstract-factory.iml" filepath="$PROJECT_DIR$/Abstract Factory/modulo-pagamento-abstract-factory/modulo-pagamento-abstract-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstract Factory/modulo-pagamento-acoplado/modulo-pagamento-acoplado.iml" filepath="$PROJECT_DIR$/Abstract Factory/modulo-pagamento-acoplado/modulo-pagamento-acoplado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder/pedido-venda/pedido-venda.iml" filepath="$PROJECT_DIR$/Builder/pedido-venda/pedido-venda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dependency Injection/pedido-venda-com-di/pedido-venda-com-di.iml" filepath="$PROJECT_DIR$/Dependency Injection/pedido-venda-com-di/pedido-venda-com-di.iml" />
+    </modules>
+  </component>
+</project>

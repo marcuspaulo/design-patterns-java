@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Abstract Factory/modulo-pagamento-abstract-factory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Abstract Factory/modulo-pagamento-abstract-factory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Abstract Factory/modulo-pagamento-acoplado/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Abstract Factory/modulo-pagamento-acoplado/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Builder/pedido-venda/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Builder/pedido-venda/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dependency Injection/pedido-venda-com-di/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dependency Injection/pedido-venda-com-di/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Factory Method/maladireta-cliente/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Factory Method/maladireta-cliente/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Factory Method/maladireta-lib/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Factory Method/maladireta-lib/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Factory Method/maladireta/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Factory Method/maladireta/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Observer/financeiro-sem-observer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Observer/financeiro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Observer/financeiro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy/carregar-contatos-com-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy/carregar-contatos-com-proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy/carregar-contatos-sem-padrao-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy/carregar-contatos-sem-padrao-proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/README.md" charset="ISO-8859-1" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Proxy/carregar-contatos-com-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/Proxy/carregar-contatos-sem-padrao-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/Builder/pedido-venda/pom.xml" />
+        <option value="$PROJECT_DIR$/Observer/financeiro/pom.xml" />
+        <option value="$PROJECT_DIR$/Observer/financeiro-sem-observer/pom.xml" />
+        <option value="$PROJECT_DIR$/Factory Method/maladireta/pom.xml" />
+        <option value="$PROJECT_DIR$/Factory Method/maladireta-lib/pom.xml" />
+        <option value="$PROJECT_DIR$/Factory Method/maladireta-cliente/pom.xml" />
+        <option value="$PROJECT_DIR$/Abstract Factory/modulo-pagamento-acoplado/pom.xml" />
+        <option value="$PROJECT_DIR$/Abstract Factory/modulo-pagamento-abstract-factory/pom.xml" />
+        <option value="$PROJECT_DIR$/Dependency Injection/pedido-venda-com-di/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="15" project-jdk-type="JavaSDK" />
+</project>
